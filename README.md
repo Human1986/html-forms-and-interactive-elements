@@ -65,5 +65,5 @@ Please note that you should edit the `src/index.html` file. Your solution cannot
 		- `<input>` should have `name` attribute with value: `user-agree`.
 	2. Add `<button>` for submitting this form.
 		- It should have `type="submit"`.
-		- Its text should be: `Send you data to NASA`.
+		- Its text should be: `Send your data to NASA`.
 
